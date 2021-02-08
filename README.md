@@ -18,7 +18,6 @@ In this Project, I worked on three different functionalities:
    
 I haven't used any Machine Learning or Data Science Algorithm, to make it easy for understanding and help you learn in depth working of python. 
 <br>
-If you like,  Do star ⭐ the repo.
 
 ### Download
 
